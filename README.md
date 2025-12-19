@@ -31,7 +31,7 @@ __Browser developer tools__
 
 ## Courses
 __Software QA__
-*in-person course by [Samuel Ripplinger](https://mtec.edu/faculty-directory/#software_quality_assurance)
+* in-person course by [Samuel Ripplinger](https://mtec.edu/faculty-directory/#software_quality_assurance)
 
 A intensive course in software testing 
 
