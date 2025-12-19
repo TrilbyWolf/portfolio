@@ -40,9 +40,9 @@ A intensive course in software testing
 ### Test cases and bug reports in Jira
 
 -Test cases created
-* Test Case for testing the menu slide for Lego.com. [Check the test case](https://mtechqa.atlassian.net/browse/MTQA-4042)
-* Test Case for testing the hamburger menu of saucedemo.com. [Check the test case](https://mtechqa.atlassian.net/browse/MTQA-3871)
+* Test Case for testing the menu slide for Lego.com. [Check the test case](https://drive.google.com/drive/folders/1MkioZjy3-Um1m2flG-QL9pk-BxyGRdiE?usp=drive_link)
+* Test Case for testing the hamburger menu of saucedemo.com. [Check the test case](https://drive.google.com/drive/folders/1ZK8gNq-3B1fqTnBnoWcEcUXrqe82YVlo?usp=drive_link)
 
 -Bug reports created
-* Bug on Lego.com involving image sizing of a certien set's page. [Check the bug report](https://mtechqa.atlassian.net/browse/MTQA-3568) 
-* Bug on Spotify app involving the eat this playlist feature and game border. [Check the bug report](https://mtechqa.atlassian.net/browse/MTQA-3787)
+* Bug on Lego.com involving image sizing of a certien set's page. [Check the bug report](https://drive.google.com/drive/folders/14TvPVs83N99-KlFGIVi7X2ivk6bDUVbv?usp=drive_link) 
+* Bug on Spotify app involving the eat this playlist feature and game border. [Check the bug report](https://drive.google.com/drive/folders/1SzJUTpmlCNknkX5p1NEo_rSHzl1_awmU?usp=drive_link)
